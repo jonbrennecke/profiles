@@ -2,7 +2,7 @@
 # Just a simple PowerShell script to get things started
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-echo " >> Welcome. Let's initializing the git repo"
+echo " >> Welcome. Let's initialize the git repo"
 
 echo " >> checking if 'git' is installed"
 
