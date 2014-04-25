@@ -56,3 +56,4 @@ Set-Alias subl 'C:\Program Files\Sublime Text 3\sublime_text.exe'
 Set-Alias python 'C:\Python27\python.exe'
 
 # alias for emacs
+Set-Alias emacs 'C:\Users\wisorlab\Documents\MATLAB\mrempe\emacs\bin\emacs.exe'
